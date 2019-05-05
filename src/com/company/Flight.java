@@ -142,7 +142,6 @@ public class Flight implements FlightInterface {
 
     }
 
-
     @Override
 
     public Passenger[] getPassengerList() {
