@@ -2,7 +2,6 @@ package com.company;
 
 public interface PassengerInterface {
 
-
     public String getName();
 
 

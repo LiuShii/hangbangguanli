@@ -89,6 +89,7 @@ public class Client{
         return cmd;
     }
 
+
     private int sturni(String str){
         int val=0;
         try {
