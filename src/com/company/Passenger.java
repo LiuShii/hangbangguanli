@@ -17,6 +17,7 @@ public class Passenger implements PassengerInterface {
         this.seatPosition = seatPosition;
 
     }
+
     public String getName() {
 
         return names;

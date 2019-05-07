@@ -50,6 +50,7 @@ public class Flight implements FlightInterface {
                 }
             }
         }
+
         if (!flag)
             return fail;
 

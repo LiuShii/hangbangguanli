@@ -90,6 +90,7 @@ public class Client{
     }
 
 
+
     private int sturni(String str){
         int val=0;
         try {

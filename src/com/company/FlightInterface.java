@@ -7,7 +7,6 @@ public interface FlightInterface {
 
     public boolean cancel(int bookingNumber);
 
-
     public Passenger[] getPassengerList();
 
 }

@@ -11,7 +11,6 @@ public interface PassengerInterface {
     public int getRow();
 
 
-
     public int getSeatPosition();
 
 }
